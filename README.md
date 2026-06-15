@@ -22,7 +22,7 @@ A Python project that generates secure random passwords using letters, numbers, 
 - User-defined password length
 - Strong password creation
 
-## 3. 🌦️ Weather App
+## 3.  Weather App
 
 A simple Weather Application built using Python and OpenWeatherMap API.
 
