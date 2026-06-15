@@ -1,4 +1,4 @@
- Oasis Infobyte Python Programming Internship Projects
+## Oasis Infobyte Python Programming Internship Projects
 
 This repository contains the projects completed during the **Python Programming Internship** at **Oasis Infobyte**.
 
